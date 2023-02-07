@@ -217,7 +217,7 @@ section h3{
      width: 80%;
 }
 .article--img{
-    width: 33rem;
+    max-width: 33rem;
      width: 100%;
      height: 33rem;
 }

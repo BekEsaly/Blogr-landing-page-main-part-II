@@ -366,7 +366,7 @@ section h3{
    }
  #editor .article--img{
        background: url('./images/illustration-editor-mobile.svg') no-repeat left;
-    
+     background-size:95%;
      background-position: center;
  }
    #phones{

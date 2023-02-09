@@ -1,6 +1,6 @@
 const ddBtn=document.querySelectorAll('.dropdown-btn');
 const ddMenu=document.querySelectorAll('.dropdown-menu');
-const arrow=document.querySelectorAll('.dropdown-btn a img');
+const arrow=document.querySelectorAll('.dropdown-btn img');
 ddBtn.forEach((btn, current)=>{
     btn.addEventListener('click', (actual, arrowUp)=>{
          actual=ddMenu[current];

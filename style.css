@@ -246,7 +246,7 @@ section h3{
 }
 
 #phones{
-    height: 8%;
+    height: 18%;
     background: url('./images/bg-pattern-circles.svg') no-repeat bottom left var(--Very-dark-gray-blue);
     border-top-right-radius: 7rem;
     color: var(--White);

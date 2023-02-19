@@ -377,7 +377,7 @@ section h3{
    background-size:140%;
    background-position: top 120% center;
    position: relative;
-   margin-top: 9rem;
+   margin-top: 8rem;
    padding-top: 9rem;
    }
    #phones .article--content h2{
@@ -387,7 +387,7 @@ section h3{
      background-size: 80%;
      background-position: center;
     position: absolute;
-    top:-50%;
+    top:-60%;
    }
    #laptop .article--img{
     background: url('./images/illustration-laptop-mobile.svg')no-repeat left;
